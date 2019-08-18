@@ -1,0 +1,12 @@
+Configuration
+1.git config --global user.name "YOUR REPOSITORY'S NAME"
+
+2. git config --global user.email "YOUR EMAIL ID"
+
+3. git add FILE NAME.
+
+4. Create a file.
+
+5. git commit -m "your commit" file name.
+
+6. git push -u origin master
